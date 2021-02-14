@@ -16,5 +16,7 @@ As such, our project addresses the challenge of finding good, vibe-specific play
 
 In order to use the Python Notebook, download it and follow the instructions. EDA and brief result analysis were also included for ease of usage.
 
+The original kaggle notebook used to house the core functions are here: https://www.kaggle.com/ragmatical/vibe-check
+
 From VibeCheck,
 Thanks!
