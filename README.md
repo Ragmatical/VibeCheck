@@ -1,7 +1,7 @@
 # VibeCheck
 Vibe Check - Spotify Enhancer
 
-This Project was done by: Juno Kim, Justin Hou, Benny Guo, Matthew Lee of Gunn High School
+This Project was done by: Juno Kim, Justin Hou, Benny Guo, Matthew Lee of Gunn High School for the GunnHacks 7.0 hackathon
 
 Coded by: Juno Kim
 
