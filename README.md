@@ -3,8 +3,6 @@ Vibe Check - Spotify Enhancer
 
 This Project was done by: Juno Kim, Justin Hou, Benny Guo, Matthew Lee of Gunn High School for the GunnHacks 7.0 hackathon
 
-Coded by: Juno Kim
-
 VibeCheck is a Spotify Enhancer for the typical teenager to create niche, mini-playlists from an ultimat playlist.
 
 During these unprecedented times, many of us have turned to music to lift our souls, connect to one another, and focus on our studying. 
